@@ -1,11 +1,19 @@
 # Capstone Project: Capturing customer demands
 
-## (a) Description of problem:
-The scope of this project is for restaurant owners. As mentioned in this [article](https://www.entrepreneur.com/article/306018), the few challenges faced by restaurant owners is finding an appropriate theme, keeping up with the competition and finding the right suppliers.
+This is a repo containing my work for the `IBM Data Science Professional Course`. The project requirements are listed [here](insert document).
+
+## Description of problem:
+The intent of this project is for restaurant owners. As mentioned in this [article](https://www.entrepreneur.com/article/306018), the few challenges faced by restaurant owners is finding an appropriate theme, keeping up with the competition and finding the right suppliers.
+
+## Description of the Dataset:
+
+
 
 A description of the problem and a discussion of the background. (15 marks)
 
 A description of the data and how it will be used to solve the problem. (15 marks)
+
+
 For the second week, the final deliverables of the project will be:
 
 A link to your Notebook on your Github repository, showing your code. (15 marks)
