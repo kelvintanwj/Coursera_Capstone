@@ -1,1 +1,2 @@
-# coursera_ibm_capstone
+# Capstone Project: Capturing customer demands for Restaurant owners
+
