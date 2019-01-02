@@ -1,6 +1,7 @@
 # Capstone Project: Capturing customer demands
---------------------------------------------------------------
-For this week, you will required to submit the following:
+
+## (a) Description of problem:
+The scope of this project is for restaurant owners. As mentioned in this [article](https://www.entrepreneur.com/article/306018), the few challenges faced by restaurant owners is finding an appropriate theme, keeping up with the competition and finding the right suppliers.
 
 A description of the problem and a discussion of the background. (15 marks)
 
